@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "20459984523",
+    "firebase_url": "https://ezy-b2e65.firebaseio.com",
+    "project_id": "ezy-b2e65",
+    "storage_bucket": "ezy-b2e65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20459984523:android:6b4ae4d2968026a3",
+        "android_client_info": {
+          "package_name": "com.example.a2ezy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20459984523-78b1pfusfj066todeavg64ef1s0m6bvh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a2ezy",
+            "certificate_hash": "520cf05fad72f708f98a6f1eefbf33516ba9e3d5"
+          }
+        },
+        {
+          "client_id": "20459984523-b8280qk64hfb2shj949k1ltpmio7ufbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKXOXMZif9DyarSriJlt01Kpk5Rc_OvC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20459984523-b8280qk64hfb2shj949k1ltpmio7ufbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
